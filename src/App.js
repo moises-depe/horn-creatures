@@ -17,7 +17,7 @@ export default class App extends React.Component {
     });
 
     return (
-      <div className="App">
+      <div className="App">x
 
         <CreatureHeader />
 
@@ -31,7 +31,7 @@ export default class App extends React.Component {
 
           <div className="creatureFilter">
             <form className="creatureForm">
-              pick some cuties
+              lets select some monsters
                 <select
                 className="creatureSelect"
                 value={this.state.keyword}
