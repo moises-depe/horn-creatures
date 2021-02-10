@@ -1,4 +1,3 @@
-import './App.css';
 import React from 'react';
 import creaturesArray from './data.js';
 import CreatureHeader from './Header/Header.js';
@@ -17,7 +16,7 @@ export default class App extends React.Component {
     });
 
     return (
-      <div className="App">x
+      <div className="App">
 
         <CreatureHeader />
 
@@ -31,7 +30,7 @@ export default class App extends React.Component {
 
           <div className="creatureFilter">
             <form className="creatureForm">
-              lets select some monsters
+              Lets Select Some Creatures
                 <select
                 className="creatureSelect"
                 value={this.state.keyword}
