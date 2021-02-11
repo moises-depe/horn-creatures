@@ -159,6 +159,6 @@ const creaturesArray = [
         keyword: "dragon",
         horns: 100
     }
-];
+]
 
-export default images;
+export default creaturesArray;
