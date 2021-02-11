@@ -123,7 +123,7 @@ const creaturesArray = [
         url:
             "https://cbsnews3.cbsistatic.com/hub/i/r/2013/03/05/5b414225-a645-11e2-a3f0-029118418759/thumbnail/620x350/2d4cf24685b45c22912e64d2004fec8d/Baby_Mouflon_Wild_Sheep.jpg",
         title: "Baby mouflon",
-        description: "The cuteness that is a baby mouflon asleep",
+        description: "The gness that is a baby mouflon asleep",
         keyword: "mouflon",
         horns: 2
     },
