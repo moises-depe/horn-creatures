@@ -1,5 +1,5 @@
 import React from 'react';
-import CreatureItem from './CreatureItem.js';
+import CreatureItem from './creatureItem.js';
 
 class CreatureList extends React.Component {
 
